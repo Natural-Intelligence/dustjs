@@ -19,7 +19,7 @@
     "Richard Ragan <rragan@ebay.com>"
   ],
   "scripts": {
-    "test": "*"
+    "test": "grunt travis"
   },
   "bin": {
     "dustc": "./bin/dustc"
