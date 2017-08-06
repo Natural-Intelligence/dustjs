@@ -1,6 +1,6 @@
 {
   "name": "dustjs-linkedin",
-  "version": "2.7.5",
+  "version": "2.7.6",
   "author": {
     "name": "Aleksander Williams",
     "url": "http://akdubya.github.com/dustjs"
@@ -19,7 +19,7 @@
     "Richard Ragan <rragan@ebay.com>"
   ],
   "scripts": {
-    "test": "grunt travis"
+    "test": "*"
   },
   "bin": {
     "dustc": "./bin/dustc"
